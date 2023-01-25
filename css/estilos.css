@@ -1,0 +1,17 @@
+p{
+    font-family: 'Crimson Pro', serif;
+    color: brown;
+    width: 500px;
+}
+h1{
+    font-family: 'Crimson Pro', serif;
+    color: chocolate;
+    border: 2px solid rebeccapurple;
+    margin: 50px;
+    padding: 5px;
+    width: 600px;
+}
+h3{
+    font-family: 'Crimson Pro', serif;
+    color: yellowgreen;
+}
